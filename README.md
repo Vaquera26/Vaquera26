@@ -3,7 +3,7 @@
 
 I'm a **Computer Systems Engineering** student at **Instituto Tecnológico de La Laguna**. I’m passionate about learning new technologies and solving problems creatively. When I'm not coding, I enjoy **Formula 1**, being in **nature**, hitting the **gym**, and of course, eating **tacos de papa**!
 
-📬 Contact Me:
+## 📬 Contact Me:
 Feel free to reach out to me via any of the following:
 
 **Email:** juan.tec@outlook.com
