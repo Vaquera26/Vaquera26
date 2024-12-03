@@ -8,19 +8,12 @@ Feel free to reach out to me via any of the following:
 
 **Email:** juan.tec@outlook.com
 
-**LinkedIn:** juan-vaquera-ln
+**Linkedin:** [**Juan Vaquera**](https://linkedin.com/in/juan-vaquera-ln)
 
 **Website/Portfolio:** www.codexvaquera.studio
 
 ![GIF 1](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh6bHlhbXlxZ2dyYXdydDkwMWg1YzZoeGwyejdkM2tpaTI5ZHZtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfveRob9mxGdW/giphy.gif)
 
----
-
-## 🌐 **Connect with Me:**
-
-Feel free to reach out and connect with me:
-
-- [**LinkedIn**](https://linkedin.com/in/juan-vaquera-ln)
 
 ---
 
