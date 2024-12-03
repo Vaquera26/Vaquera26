@@ -3,9 +3,12 @@
 
 I'm a **Computer Systems Engineering** student at **Instituto Tecnológico de La Laguna**. I’m passionate about learning new technologies and solving problems creatively. When I'm not coding, I enjoy **Formula 1**, being in **nature**, hitting the **gym**, and of course, eating **tacos de papa**!
 
-📫 You can reach me at **juan.tec@outlook.com**
+📬 Contact Me:
+Feel free to reach out to me via any of the following:
 
-📄 Check out my experiences and projects: [**www.codexvaquera.studio**](https://www.codexvaquera.studio/)
+**Email:** juan.tec@outlook.com
+**LinkedIn:** juan-vaquera-ln
+**Website/Portfolio:** www.codexvaquera.studio
 
 ![GIF 1](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh6bHlhbXlxZ2dyYXdydDkwMWg1YzZoeGwyejdkM2tpaTI5ZHZtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfveRob9mxGdW/giphy.gif)
 
